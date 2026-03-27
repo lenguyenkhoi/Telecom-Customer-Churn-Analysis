@@ -88,7 +88,11 @@ This project analyzes customer churn in the telecommunications industry using **
 * Drill-down and detailed tooltips
 
 ---
+## 🖼️ Dashboard Preview
 
+![Dashboard Preview](dashboard/dashboard.png)
+
+---
 ## 🤖 Machine Learning Model
 
 ### Model: Logistic Regression
