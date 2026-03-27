@@ -162,8 +162,8 @@ telecom-customer-churn-analysis/
 ├── notebooks/
 │   └── prepaired_data.ipynb
 │   └── predict_churn_customer.ipynb
-├── script/
-│   └── SCRIPT PHÂN TÍCH.docx
+├── report/
+│   └── Report.pdf
 │   
 │
 ├── model/
